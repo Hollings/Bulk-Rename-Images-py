@@ -1,0 +1,4 @@
+original.jpg|final.jpg
+original1.jpg|final1.jpg
+original2.jpg|final2.jpg
+original3.jpg|final3.jpg
